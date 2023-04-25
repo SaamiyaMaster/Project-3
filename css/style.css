@@ -180,9 +180,6 @@ p {
 }
 #map {
   height: 750px;
-  width: 100px;
-  margin-left:90px;
-  margin-right:90px; 
-  margin-top:25px;
-  margin-bottom:25px;
+  width: 500px;
+  margin: 25px;
 }
