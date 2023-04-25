@@ -1,0 +1,180 @@
+#main-nav {
+  background-color: #E3242B;
+  overflow: hidden;
+}
+#nav-contents {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-nav ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#main-nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#main-nav ul li a:hover {
+  background-color: #000;
+}
+h2 {
+  font-size: 32px;
+  text-align: center;
+  background-color: #D9381E;
+  color: #FFFFFF;
+}
+h3 {
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #D9381E;
+}
+p {
+  font-family: "Serif";
+  color: #000000;
+}
+#resume {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20191014/pngtree-red-color-stage-background-image_319342.jpg");
+}
+#information {
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: center;
+  border-style: solid;
+  border-color: #000000;
+}
+#information:hover {
+  transform: rotate(-0.5turn);
+}
+#accomplishments {
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: left;
+  border-style: solid;
+  border-color: #000000;
+}
+#accomplishments:hover {
+  transform: rotate(0.5turn);
+}
+#languages {	
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: left;
+  border-style: solid;
+  border-color: #000000;
+}
+.h1-underline {
+  text-decoration: underline dotted 3px;
+}
+#interests {
+  background-image: url("https://www.colorhexa.com/ff7886.png");
+}
+#exo-section {
+  text-align: left;
+  border-color: #000000;
+  border-style: dotted;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.exo-image {
+  position: relative;
+}
+.exo-image:hover {
+  transform: rotate(0.75turn);
+}
+#bp-section {
+  text-align: left;
+  border-color: #FFFFFF;
+  border-style: dashed;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.blackpink-image {
+  position: relative;
+  padding-left: 1px;
+}
+.blackpink-image:hover {
+  transform: rotate(-0.75turn);
+}
+#enha-section {
+  text-align: left;
+  border-color: #000000;
+  border-style: dotted;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.enhypen-image {
+  position: relative;
+  padding-left: 1px;
+}
+.enhypen-image:hover {
+  transform: rotate(-0.5turn);
+}
+#song {
+  background-image: url("https://cdn.wallpapersafari.com/92/24/1nHW69.jpg");
+}
+#intro {	
+  padding: 5px;
+  margin-left:100px;
+  margin-right:100px; 
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align: left;
+  border-style: solid;
+  border-color: #000000;
+}
+#audio {
+  text-align: center;
+  border-color: #000000;
+  border-style: dotted;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding: 10px;
+}
+.exact {
+  position: relative;
+  padding-left: 1px;
+}
+.exact:hover {
+  transform: scale(2, 0.5);
+}
