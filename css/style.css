@@ -178,3 +178,11 @@ p {
 .exact:hover {
   transform: scale(2, 0.5);
 }
+#map {
+  height: 750px;
+  width: 100px;
+  margin-left:90px;
+  margin-right:90px; 
+  margin-top:25px;
+  margin-bottom:25px;
+}
