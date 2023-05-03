@@ -184,6 +184,12 @@ p {
   margin: 25px;
 }
 .slider {
+  width: 750px;
+  height: 750px;
+  display: flex;
+  overflow-x: auto;
+}
+.slider {
   width: 900px;
   height: 900px;
   display: flex;
