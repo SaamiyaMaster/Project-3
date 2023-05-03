@@ -184,14 +184,14 @@ p {
   margin: 25px;
 }
 .slider {
-  width: 750px;
+  width: 900px;
   height: 750px;
   display: flex;
   overflow-x: auto;
 }
-.slider {
+.slider2 {
   width: 900px;
-  height: 900px;
+  height: 750px;
   display: flex;
   overflow-x: auto;
 }
