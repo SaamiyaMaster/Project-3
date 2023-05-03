@@ -189,9 +189,3 @@ p {
   display: flex;
   overflow-x: auto;
 }
-.slider2 {
-  width: 900px;
-  height: 900px;
-  display: flex;
-  overflow-x: auto;
-}
