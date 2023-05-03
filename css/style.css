@@ -183,3 +183,10 @@ p {
   width: 500px;
   margin: 25px;
 }
+.slider {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  overflow-x: auto;
+}
+
